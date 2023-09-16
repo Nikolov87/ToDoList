@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { NewTodoForm } from './NewTodoForn'
+import { NewTodoForm } from './NewTodoForm'
 import './styles.css'
 import { TodoList } from './TodoList'
 
